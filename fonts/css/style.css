@@ -1,0 +1,8 @@
+.main-container{
+    min-height: 100vh !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+footer{
+    margin-top: auto !important;
+}
